@@ -11,7 +11,7 @@ Simple Raspberry Pi Flask Web Server to allow control of gpio.
 - Clone the repo:
 
 ```
-git clone git@github.com:william-compton/pi_web_server.igt
+git clone https://github.com/william-compton/pi_web_server.git
 ```
 
 ### Executing program
