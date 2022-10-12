@@ -17,7 +17,7 @@ git clone https://github.com/william-compton/pi_web_server.git
 ### Executing program
 
 - Open the project
-- Change Web Server IP to your Pi's IP address (this will allow access within your LAN.)
+- Change Web Server IP to your Pi's IP address (this will allow access within your LAN)
 - Run the Flask project by typing:
 
 ```
